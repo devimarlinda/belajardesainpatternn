@@ -1,4 +1,2 @@
 # belajardesainpatternn
-# belajardesainpatternn
-# belajardesainpatternn
-# belajardesainpatternn
+
